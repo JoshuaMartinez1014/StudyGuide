@@ -17,11 +17,11 @@ function listTopics() {
 
 function selectTopic() {
 
-if (randomTopic === 'HTML') {
+if (randomTopic === 'Html') {
     console.log("Lets study HTML!");
 } else if (randomTopic === 'CSS') {
     console.log("Lets study CSS!");
-} else if (randomTopic === 'GIT') {
+} else if (randomTopic === 'Git') {
     console.log("Lets study GIT!");
 } else if (randomTopic === 'JavaScript') {
     console.log ("lets study JavaScript!");
